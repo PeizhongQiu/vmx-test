@@ -1,0 +1,20 @@
+/home/wark/course/vmx-test2/target/release/deps/librustversion-c8c1228d47c810b2.so: /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/lib.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/attr.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/bound.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/constfn.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/date.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/error.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expand.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expr.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/iter.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/release.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/time.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/token.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/version.rs /home/wark/course/vmx-test2/target/release/build/rustversion-c448d063eb5d4f23/out/version.expr
+
+/home/wark/course/vmx-test2/target/release/deps/rustversion-c8c1228d47c810b2.d: /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/lib.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/attr.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/bound.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/constfn.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/date.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/error.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expand.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expr.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/iter.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/release.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/time.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/token.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/version.rs /home/wark/course/vmx-test2/target/release/build/rustversion-c448d063eb5d4f23/out/version.expr
+
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/lib.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/attr.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/bound.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/constfn.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/date.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/error.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expand.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expr.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/iter.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/release.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/time.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/token.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/version.rs:
+/home/wark/course/vmx-test2/target/release/build/rustversion-c448d063eb5d4f23/out/version.expr:
+
+# env-dep:OUT_DIR=/home/wark/course/vmx-test2/target/release/build/rustversion-c448d063eb5d4f23/out

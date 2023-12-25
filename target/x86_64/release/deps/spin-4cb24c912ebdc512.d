@@ -1,0 +1,14 @@
+/home/wark/course/vmx-test/target/x86_64/release/deps/spin-4cb24c912ebdc512.rmeta: /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/lib.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/barrier.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/lazy.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/mutex.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/mutex/spin.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/once.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/relax.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/rwlock.rs
+
+/home/wark/course/vmx-test/target/x86_64/release/deps/libspin-4cb24c912ebdc512.rlib: /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/lib.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/barrier.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/lazy.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/mutex.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/mutex/spin.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/once.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/relax.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/rwlock.rs
+
+/home/wark/course/vmx-test/target/x86_64/release/deps/spin-4cb24c912ebdc512.d: /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/lib.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/barrier.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/lazy.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/mutex.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/mutex/spin.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/once.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/relax.rs /home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/rwlock.rs
+
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/lib.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/barrier.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/lazy.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/mutex.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/mutex/spin.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/once.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/relax.rs:
+/home/wark/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.8/src/rwlock.rs:

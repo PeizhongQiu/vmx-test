@@ -1,0 +1,20 @@
+/home/wark/course/vmx-test/target/debug/deps/librustversion-9359d268d241c34f.so: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/bound.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/constfn.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/date.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/release.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/time.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/token.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/version.rs /home/wark/course/vmx-test/target/debug/build/rustversion-4cd9432ca8610cf3/out/version.expr
+
+/home/wark/course/vmx-test/target/debug/deps/rustversion-9359d268d241c34f.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/bound.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/constfn.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/date.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/release.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/time.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/token.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/version.rs /home/wark/course/vmx-test/target/debug/build/rustversion-4cd9432ca8610cf3/out/version.expr
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/attr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/bound.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/constfn.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/date.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expand.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/iter.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/release.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/time.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/token.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/version.rs:
+/home/wark/course/vmx-test/target/debug/build/rustversion-4cd9432ca8610cf3/out/version.expr:
+
+# env-dep:OUT_DIR=/home/wark/course/vmx-test/target/debug/build/rustversion-4cd9432ca8610cf3/out
